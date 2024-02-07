@@ -1,0 +1,4 @@
+python3-contextlib2: copyright-without-copyright-notice
+python3-contextlib2: initial-upload-closes-no-bugs
+python3-contextlib2: no-manual-page
+python3-contextlib2: zero-byte-file-in-doc-directory
