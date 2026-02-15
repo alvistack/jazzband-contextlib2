@@ -1,0 +1,5 @@
+python-contextlib2 source: file-without-copyright-information
+python-contextlib2 source: no-debian-changes
+python-contextlib2 source: source-contains-prebuilt-windows-binary
+python-contextlib2 source: source-is-missing
+python-contextlib2 source: source-package-encodes-python-version

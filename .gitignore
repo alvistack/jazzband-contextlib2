@@ -11,3 +11,5 @@ MANIFEST
 .coverage
 coverage.xml
 htmlcov/
+
+.pybuild/
